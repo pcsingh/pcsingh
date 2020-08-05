@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 <!--
+[![WhatsApp Chat Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=pcsingh&repo=WhatsApp-Chat-Analyzer)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcsingh&layout=compact)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer)
+
 **pcsingh/pcsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Prem's github stats](https://github-readme-stats.vercel.app/api?username=pcsingh&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&hide_title=true)](https://github.com/pcsingh/github-readme-stats)
