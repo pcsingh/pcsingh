@@ -2,7 +2,7 @@
 
 ---
 
-[![WhatsApp Chat Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=pcsingh&repo=WhatsApp-Chat-Analyzer)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcsingh&layout=compact)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer)
+[![WhatsApp Chat Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=pcsingh&repo=WhatsApp-Chat-Analyzer)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcsingh&layout=compact)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer)
 <!--
 **pcsingh/pcsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
