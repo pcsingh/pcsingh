@@ -1,4 +1,11 @@
-### Hi there 👋
+<span align="center">
+ <h1>Hi there 👋, I am Prem 👨‍💻 </h1>
+  
+[![](https://img.icons8.com/color/32/000000/linkedin.png)](https://linkedin.com/in/premchandra-singh)
+[![](https://img.icons8.com/color/32/000000/twitter.png)](#)
+[![](https://img.icons8.com/plasticine/32/000000/gmail.png)](mailto:premchandra.singh.5268@gmail.com?Subject=From_GitHub)
+
+</span>
 
 ---
 
