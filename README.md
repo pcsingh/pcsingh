@@ -49,6 +49,13 @@ Here are some ideas to get you started:
 - [WhatsApp Chat Analyzer](https://github.com/pcsingh/WhatsApp-Chat-Analyzer)
 - [Data Science Dashboard](https://github.com/pcsingh/Data-Science-Dashboard)
 
+### Web based projects:
+- [GitHub Profile Finder](https://github.com/pcsingh/Github-Profile-Finder)
+- [Real Estate App](https://github.com/pcsingh/Real_Estate_App)
+- [WhatsApp Chat Analyzer](https://github.com/pcsingh/WhatsApp-Chat-Analyzer)
+- [Data Science Dashboard](https://github.com/pcsingh/Data-Science-Dashboard)
+
+
 ---
 
 [![Prem's github stats](https://github-readme-stats.vercel.app/api?username=pcsingh&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/pcsingh/github-readme-stats)
