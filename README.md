@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 
 ---
 
-[![Prem's github stats](https://github-readme-stats.vercel.app/api?username=pcsingh&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/pcsingh/github-readme-stats)
+[![Prem's github stats](https://github-readme-stats.vercel.app/api?username=pcsingh&hide=stars&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/pcsingh/github-readme-stats)
