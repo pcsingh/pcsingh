@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - [Scraping Movie Data](https://github.com/pcsingh/scraping_movie_data)
 - [WhatsApp Chat Analyzer](https://github.com/pcsingh/WhatsApp-Chat-Analyzer)
 - [Data Science Dashboard](https://github.com/pcsingh/Data-Science-Dashboard)
-- [Traffic Signal Classification](https://github.com/pcsingh/Traffic-Signal-Classification)
+- [Traffic Signal Classification using Deep Learning](https://github.com/pcsingh/Traffic-Signal-Classification)
 
 ### Web based projects:
 - [GitHub Profile Finder](https://github.com/pcsingh/Github-Profile-Finder)
