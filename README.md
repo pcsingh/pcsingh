@@ -40,17 +40,16 @@ Here are some ideas to get you started:
 
 ### Data Science related projects:
 
-- [Predicting-Stock-Market](https://github.com/pcsingh/Predicting-Stock-Market)
-- [Best market for Advertisement](https://github.com/pcsingh/Best-Market-For-Advertisement)
-- [Spam filter for phone messages](https://github.com/pcsingh/Spam-filter-for-Phone-Messages)
-- [Predicting the Upvotes](https://github.com/pcsingh/Predicting-the-Upvotes)
-- [Mushroom classification WebApp](https://github.com/pcsingh/ML-WebApp-with-Streamlit-and-Python)
-- [Popular Data Science questions](https://github.com/pcsingh/Popular-Data-Science-Questions)
-- [Predicting bikes on rent](https://github.com/pcsingh/Predicting-Bikes-On-Rent)
-- [Scraping Movie Data](https://github.com/pcsingh/scraping_movie_data)
-- [WhatsApp Chat Analyzer](https://github.com/pcsingh/WhatsApp-Chat-Analyzer)
-- [Data Science Dashboard](https://github.com/pcsingh/Data-Science-Dashboard)
-- [Traffic Signal Classification using Deep Learning](https://github.com/pcsingh/Traffic-Signal-Classification)
+|                                                                                                               |                                                                                             |
+|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|
+| [Spam filter for phone messages](https://github.com/pcsingh/Spam-filter-for-Phone-Messages)                   | [Predicting the Upvotes](https://github.com/pcsingh/Predicting-the-Upvotes)                 |
+| [Mushroom classification WebApp](https://github.com/pcsingh/ML-WebApp-with-Streamlit-and-Python)              | [Popular Data Science questions](https://github.com/pcsingh/Popular-Data-Science-Questions) |
+| [Predicting-Stock-Market](https://github.com/pcsingh/Predicting-Stock-Market)                                 | [Best market for Advertisement](https://github.com/pcsingh/Best-Market-For-Advertisement)   |
+| [Predicting bikes on rent](https://github.com/pcsingh/Predicting-Bikes-On-Rent)                               | [Scraping Movie Data](https://github.com/pcsingh/scraping_movie_data)                       |
+| [WhatsApp Chat Analyzer](https://github.com/pcsingh/WhatsApp-Chat-Analyzer)                                   | [Data Science Dashboard](https://github.com/pcsingh/Data-Science-Dashboard)                 |
+| [Traffic Signal Classification using Deep Learning](https://github.com/pcsingh/Traffic-Signal-Classification) |                                                                                             |
+|                                                                                                               |                                                                                             |
+
 
 ### Web based projects:
 - [GitHub Profile Finder](https://github.com/pcsingh/Github-Profile-Finder)
