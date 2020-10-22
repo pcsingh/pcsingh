@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - [Real Estate App](https://github.com/pcsingh/Real_Estate_App)
 - [WhatsApp Chat Analyzer](https://github.com/pcsingh/WhatsApp-Chat-Analyzer)
 - [Data Science Dashboard](https://github.com/pcsingh/Data-Science-Dashboard)
-- [Contact Keeper](https://keepyourcontacts.herokuapp.com/login)
+- [Contact Keeper](https://github.com/pcsingh/ContactKeeper)
 
 ---
 
