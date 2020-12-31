@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 | [Predicting-Stock-Market](https://github.com/pcsingh/Predicting-Stock-Market)                                 | [Best market for Advertisement](https://github.com/pcsingh/Best-Market-For-Advertisement)   |
 | [Predicting bikes on rent](https://github.com/pcsingh/Predicting-Bikes-On-Rent)                               | [Scraping Movie Data](https://github.com/pcsingh/scraping_movie_data)                       |
 | [WhatsApp Chat Analyzer](https://github.com/pcsingh/WhatsApp-Chat-Analyzer)                                   | [Data Science Dashboard](https://github.com/pcsingh/Data-Science-Dashboard)                 |
-| [Traffic Signal Classification using Deep Learning](https://github.com/pcsingh/Traffic-Signal-Classification) | [Neural Style Transfer](https://github.com/pcsingh/Neural_Style_Transfer)                                                                                            |
-|                                                                                                               |                                                                                             |
+| [Traffic Signal Classification using Deep Learning](https://github.com/pcsingh/Traffic-Signal-Classification) | [Neural Style Transfer](https://github.com/pcsingh/Neural_Style_Transfer)                                                              
+| [Time Series Forecasting](https://github.com/pcsingh/Time_Series_Forecasting)                                 |                                                                 |
 
 
 ### Web based projects:
