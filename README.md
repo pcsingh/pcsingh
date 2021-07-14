@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 | [Predicting bikes on rent](https://github.com/pcsingh/Predicting-Bikes-On-Rent)                               | [Scraping Movie Data](https://github.com/pcsingh/scraping_movie_data)                       |
 | [WhatsApp Chat Analyzer](https://github.com/pcsingh/WhatsApp-Chat-Analyzer)                                   | [Data Science Dashboard](https://github.com/pcsingh/Data-Science-Dashboard)                 |
 | [Traffic Signal Classification using Deep Learning](https://github.com/pcsingh/Traffic-Signal-Classification) | [Neural Style Transfer](https://github.com/pcsingh/Neural_Style_Transfer)                                                              
-| [Time Series Forecasting](https://github.com/pcsingh/Time_Series_Forecasting)                                 |                                                                 |
+| [Time Series Forecasting](https://github.com/pcsingh/Time_Series_Forecasting)                                 | [Predicting Repo Popularity](https://github.com/pcsingh/Predicting-Repo-popularity)                                                                |
 
 
 ### Web based projects:
@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 - [WhatsApp Chat Analyzer](https://github.com/pcsingh/WhatsApp-Chat-Analyzer)
 - [Data Science Dashboard](https://github.com/pcsingh/Data-Science-Dashboard)
 - [Contact Keeper](https://github.com/pcsingh/ContactKeeper)
+- [Predicting Repo Popularity](https://github.com/pcsingh/Predicting-Repo-popularity)
 
 ---
 
