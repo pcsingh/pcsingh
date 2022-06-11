@@ -1,5 +1,5 @@
 <span align="center">
- <h1>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">, I am Prem 👨‍💻 </h1>
+ <h1>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I am Prem 👨‍💻 </h1>
   
  
 [![](https://img.icons8.com/color/32/000000/linkedin.png)](https://linkedin.com/in/premchandra-singh)
@@ -12,11 +12,12 @@
 
 ---
 
+<!--
 [![WhatsApp Chat Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=pcsingh&repo=WhatsApp-Chat-Analyzer)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer) 
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; [![Time Series Forecasting](https://github-readme-stats.vercel.app/api/pin/?username=pcsingh&repo=Time_Series_Forecasting)](https://github.com/pcsingh/Time_Series_Forecasting)
 
-<!--
+
 [![Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=pcsingh&repo=Data-Science-Dashboard)](https://github.com/pcsingh/Data-Science-Dashboard) 
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcsingh&layout=compact&card_width=500)](https://github.com/pcsingh/Data-Science-Dashboard)
